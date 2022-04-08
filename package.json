@@ -1,0 +1,20 @@
+{
+  "name": "practice-project",
+  "version": "1.0.0",
+  "description": "I don't like the HTML test cases, I don't know where to see the log messages and there is no feedback on errors.",
+  "main": "utilities_v2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Natalie Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.12.1",
+    "eslint-cli": "^1.1.1",
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
